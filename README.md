@@ -42,6 +42,6 @@ My contributions to this project included thorough testing, debugging, and docum
 
 ## Video Demonstration
 
-![Video](https://drive.google.com/uc?id=1rixAAGgI9gJbDnZjdnSAoUxvfYSPQEqi)
-<iframe src="https://drive.google.com/file/d/1rixAAGgI9gJbDnZjdnSAoUxvfYSPQEqi/preview" width="640" height="480" allow="autoplay"></iframe>
-![video](https://drive.google.com/file/d/1rixAAGgI9gJbDnZjdnSAoUxvfYSPQEqi/view)
+[![Watch the video](https://img.youtube.com/vi/tBDBV-RO0t0/maxresdefault.jpg)](https://youtu.be/tBDBV-RO0t0)
+
+https://drive.google.com/file/d/1rixAAGgI9gJbDnZjdnSAoUxvfYSPQEqi/view
